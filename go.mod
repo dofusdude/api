@@ -12,7 +12,7 @@ require (
 	github.com/dofusdude/ankabuffer v0.1.0
 	github.com/dofusdude/dodumap v0.6.3
 	github.com/emirpasic/gods v1.18.1
-	github.com/go-chi/chi/v5 v5.2.0
+	github.com/go-chi/chi/v5 v5.2.1
 	github.com/google/go-github/v67 v67.0.0
 	github.com/hashicorp/go-memdb v1.3.4
 	github.com/joho/godotenv v1.5.1
