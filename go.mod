@@ -16,7 +16,7 @@ require (
 	github.com/google/go-github/v67 v67.0.0
 	github.com/hashicorp/go-memdb v1.3.4
 	github.com/joho/godotenv v1.5.1
-	github.com/meilisearch/meilisearch-go v0.30.0
+	github.com/meilisearch/meilisearch-go v0.31.0
 	github.com/ncruces/go-sqlite3 v0.23.1
 	github.com/prometheus/client_golang v1.21.0
 	github.com/spf13/cobra v1.9.1
